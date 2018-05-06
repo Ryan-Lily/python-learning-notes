@@ -3,3 +3,5 @@ import torch
 print(torch.__version__)
 2、三款Linux桌面环境下的网页制作工具
 Screem、Bluefish和Quanta Plus 
+3、scikit-learn sklearn 0.18 官方文档中文版
+https://blog.csdn.net/chinachenyyx/article/details/75299043
