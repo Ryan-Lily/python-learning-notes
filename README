@@ -1,4 +1,4 @@
 1、如何知道当前pytorch当前的版本？
 import torch
 print(torch.__version__)
-
+2、网页制作是Web应用的重要组成部分，这里介绍三款Linux桌面环境下的网页制作工具Screem、Bluefish和Quanta Plus，利用它们可以轻松制作网页。 
