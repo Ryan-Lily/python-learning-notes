@@ -1,1 +1,4 @@
-I love programming!
+1、如何知道当前pytorch当前的版本？
+import torch
+print(torch.__version__)
+
