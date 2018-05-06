@@ -8,4 +8,4 @@ https://blog.csdn.net/chinachenyyx/article/details/75299043
 4、从github远程仓库抓取数据
 git fetch origin 会抓取从你上次克隆以来别人上传到此远程仓库中的所有更新（或是上次 fetch 以来别人提交的更新）<br>
 ![fromremotetolocal](https://github.com/Ryan-Lily/python-learning-notes/blob/master/images/Fetch-and-Pull.png)
-![](https://raw.githubusercontent.com/zhangyudan/beautiful_stars/master/image/1.png)
+5、github中的README.md文件是使用Markdown语法编写的，基本语法的网址为：https://www.appinn.com/markdown/
