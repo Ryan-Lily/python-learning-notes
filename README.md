@@ -7,5 +7,6 @@ Screem、Bluefish和Quanta Plus <br>
 https://blog.csdn.net/chinachenyyx/article/details/75299043<br>
 4、从github远程仓库抓取数据<br>
 git fetch origin 会抓取从你上次克隆以来别人上传到此远程仓库中的所有更新（或是上次 fetch 以来别人提交的更新）<br>
-![fromremotetolocal](https://github.com/Ryan-Lily/python-learning-notes/blob/master/images/Fetch-and-Pull.png)
+![fromremotetolocal](https://github.com/Ryan-Lily/python-learning-notes/blob/master/images/Fetch-and-Pull.png)<br>
 5、github中的README.md文件是使用Markdown语法编写的，基本语法的网址为：https://www.appinn.com/markdown/<br>
+6、[使用github搭建网站](https://blog.csdn.net/pipisorry/article/details/51707366)<br>
