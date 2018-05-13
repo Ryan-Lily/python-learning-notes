@@ -13,3 +13,4 @@ git fetch origin 会抓取从你上次克隆以来别人上传到此远程仓库
 7、pytorch在GitHub上的发布地址：https://github.com/pytorch/pytorch/releases  
 8、linux的账号是记录在/etc/passwd文件里面的，而密码则是保存在/etc/shadow。  
 9、sudo passwd 设置root的密码；passwd 设置自己的密码
+10、pip 是一个流行的 Python 包管理工具，提供了对 Python 包的查找、安装、下载、卸载的功能。
