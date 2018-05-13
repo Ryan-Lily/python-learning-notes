@@ -10,3 +10,6 @@ git fetch origin 会抓取从你上次克隆以来别人上传到此远程仓库
 ![fromremotetolocal](https://github.com/Ryan-Lily/python-learning-notes/blob/master/images/Fetch-and-Pull.png)<br>
 5、github中的README.md文件是使用Markdown语法编写的，基本语法的网址为：https://www.appinn.com/markdown/<br>
 6、[使用github搭建网站](https://blog.csdn.net/pipisorry/article/details/51707366)<br>
+7、pytorch在GitHub上的发布地址：https://github.com/pytorch/pytorch/releases  
+8、linux的账号是记录在/etc/passwd文件里面的，而密码则是保存在/etc/shadow。  
+9、sudo passwd 设置root的密码；passwd 设置自己的密码
