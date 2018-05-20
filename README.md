@@ -25,5 +25,5 @@ git fetch origin 会抓取从你上次克隆以来别人上传到此远程仓库
 *作为程序运行：$ python module1.py  
 *作为模块运行：1. $ python 2. >>> import module1  
 *作为脚本运行：1. 在python文件首行增加代码：#!/usr/bin/python 2. 给文件赋予执行权限：chmod +x module1.py 3.执行脚本文件./module.py  
-
+17、python中的分号(;)用来分隔一行中的多个语句，不建议使用，尽量每行只写一条语句。python中的逗号(,)用于构建元组。  
 
