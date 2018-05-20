@@ -20,4 +20,10 @@ git fetch origin 会抓取从你上次克隆以来别人上传到此远程仓库
 14、[linux命令中find、locate、which、whereis、type的区别](https://www.cnblogs.com/jycjy/p/6940544.html)  
 15、[ubuntu系统安装pycharm的方法](https://www.jetbrains.com/help/pycharm/install-and-set-up-pycharm.html#linux)  
 *使用snap安装管理软件包：sudo snap install <pycharm-professional·or·pycharm-community> --classic  
-*源文件安装：下载源文件->解压->打开bin目录->./pycharm.sh
+*源文件安装：下载源文件->解压->打开bin目录->./pycharm.sh  
+16、运行python文件(eg:module1.py)的三种方法  
+*作为程序运行：$ python module1.py  
+*作为模块运行：1. $ python 2. >>> import module1  
+*作为脚本运行：1. 在python文件首行增加代码：#!/usr/bin/python 2. 给文件赋予执行权限：chmod +x module1.py 3.执行脚本文件./module.py  
+
+
