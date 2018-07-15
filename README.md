@@ -28,4 +28,5 @@ git fetch origin 会抓取从你上次克隆以来别人上传到此远程仓库
 17、python中的分号(;)用来分隔一行中的多个语句，不建议使用，尽量每行只写一条语句。python中的逗号(,)用于构建元组。  
 18、[ubuntu系统安装remarkerable的方法](https://blog.csdn.net/jq_ak47/article/details/54313983)  
 19、[linux系统中安装google chrome的方法](https://blog.csdn.net/cv_you/article/details/77340262)  
-20、[解决kaggle邮箱验证不能confirm的问题](https://blog.csdn.net/zs15321583801/article/details/79674741)
+20、[解决kaggle邮箱验证不能confirm的问题](https://blog.csdn.net/zs15321583801/article/details/79674741)  
+21、[pip 安装包时超时（read timed out）问题解决办法](https://blog.csdn.net/github_37216944/article/details/69500990)
