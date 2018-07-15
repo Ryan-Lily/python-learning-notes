@@ -29,4 +29,5 @@ git fetch origin 会抓取从你上次克隆以来别人上传到此远程仓库
 18、[ubuntu系统安装remarkerable的方法](https://blog.csdn.net/jq_ak47/article/details/54313983)  
 19、[linux系统中安装google chrome的方法](https://blog.csdn.net/cv_you/article/details/77340262)  
 20、[解决kaggle邮箱验证不能confirm的问题](https://blog.csdn.net/zs15321583801/article/details/79674741)  
-21、[pip 安装包时超时（read timed out）问题解决办法](https://blog.csdn.net/github_37216944/article/details/69500990)
+21、[pip 安装包时超时（read timed out）问题解决办法](https://blog.csdn.net/github_37216944/article/details/69500990)  
+22、[如何查看用pip命令安装的软件的安装路径](https://blog.csdn.net/jiangmengying01/article/details/78966174/)
