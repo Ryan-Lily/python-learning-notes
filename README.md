@@ -35,3 +35,4 @@ git fetch origin 会抓取从你上次克隆以来别人上传到此远程仓库
 24、[the way over the wall](https://briian.com/7509/)  
 25、[免费的黑客书籍-2018](http://omgfoss.com/best-ethical-hacking-pdf-books-free-download/)  
 26、[免费的黑客书籍-2017](https://techviral.net/best-hacking-ebooks/)
+29、[2018年最佳黑客書籍盤點](https://tdaily.news/tech/88184)
