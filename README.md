@@ -32,5 +32,6 @@ git fetch origin 会抓取从你上次克隆以来别人上传到此远程仓库
 21、[pip 安装包时超时（read timed out）问题解决办法](https://blog.csdn.net/github_37216944/article/details/69500990)  
 22、[如何查看用pip命令安装的软件的安装路径](https://blog.csdn.net/jiangmengying01/article/details/78966174/)  
 23、[pytorch可视化工具visdom启动失败解决方法](https://blog.csdn.net/qq_22194315/article/details/78827185)  
-24、[the way over the wall](https://briian.com/7509/)
-25、[免费的黑客书籍](http://omgfoss.com/best-ethical-hacking-pdf-books-free-download/)
+24、[the way over the wall](https://briian.com/7509/)  
+25、[免费的黑客书籍-2018](http://omgfoss.com/best-ethical-hacking-pdf-books-free-download/)  
+26、[免费的黑客书籍-2017](https://techviral.net/best-hacking-ebooks/)
