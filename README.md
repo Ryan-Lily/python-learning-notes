@@ -34,5 +34,6 @@ git fetch origin 会抓取从你上次克隆以来别人上传到此远程仓库
 23、[pytorch可视化工具visdom启动失败解决方法](https://blog.csdn.net/qq_22194315/article/details/78827185)  
 24、[the way over the wall](https://briian.com/7509/)  
 25、[免费的黑客书籍-2018](http://omgfoss.com/best-ethical-hacking-pdf-books-free-download/)  
-26、[免费的黑客书籍-2017](https://techviral.net/best-hacking-ebooks/)
-29、[2018年最佳黑客書籍盤點](https://tdaily.news/tech/88184)
+26、[免费的黑客书籍-2017](https://techviral.net/best-hacking-ebooks/)  
+27、[2018年最佳黑客書籍盤點](https://tdaily.news/tech/88184)  
+28、[ubuntu系统设置开机自启动项](https://www.cnblogs.com/EasonJim/p/7573292.html)
