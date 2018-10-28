@@ -39,4 +39,11 @@ git fetch origin 会抓取从你上次克隆以来别人上传到此远程仓库
 28、[RFC文档](https://www.rfc-editor.org/)  
 29、[ubuntu系统设置开机自启动项](https://www.cnblogs.com/EasonJim/p/7573292.html)  
 30、[ubuntu系统查看和结束进程](https://blog.csdn.net/caomin1hao/article/details/78700282)  
-31、[medium网站的机器学习实战](https://medium.com/machine-learning-in-practice)
+31、[medium网站的机器学习实战](https://medium.com/machine-learning-in-practice)  
+32、全球十大人工智能领域科学家:  
+*[Geoffrey E. Hinton](http://www.cs.toronto.edu/~hinton/)、[Yann LeCun](http://yann.lecun.com/)  
+*[Yoshua Bengio](http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html)、[Michael I Jordan](https://people.eecs.berkeley.edu/~jordan/)  
+*[Jeff Hawkins](https://numenta.com/)、[Sebastian Thrun](http://robots.stanford.edu/)
+*[Demis Hassabis](https://deepmind.com/)、[Jürgen Schmidhuber](http://people.idsia.ch/~juergen/)
+*[Terry Sejnowski](https://www.salk.edu/scientist/terrence-sejnowski/)、[Tom M. Mitchell](http://www.cs.cmu.edu/~tom/)
+
