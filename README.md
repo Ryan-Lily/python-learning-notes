@@ -36,7 +36,6 @@ git fetch origin 会抓取从你上次克隆以来别人上传到此远程仓库
 25、[免费的黑客书籍-2018](http://omgfoss.com/best-ethical-hacking-pdf-books-free-download/)  
 26、[免费的黑客书籍-2017](https://techviral.net/best-hacking-ebooks/)  
 27、[2018年最佳黑客書籍盤點](https://tdaily.news/tech/88184)  
-28、深度学习研究人员：[何恺明](http://kaiminghe.com/)
 28、[RFC文档](https://www.rfc-editor.org/)  
 29、[ubuntu系统设置开机自启动项](https://www.cnblogs.com/EasonJim/p/7573292.html)  
 30、[ubuntu系统查看和结束进程](https://blog.csdn.net/caomin1hao/article/details/78700282)  
@@ -50,4 +49,5 @@ git fetch origin 会抓取从你上次克隆以来别人上传到此远程仓库
 33、[ubuntu下用conda安装opencv](https://blog.csdn.net/wds2435629591/article/details/78694463)  
 34、bantu系统中鼠标变成十字不能移动的解决办法  
 ![image](https://github.com/Ryan-Lily/python-learning-notes/blob/master/images/ubuntu%E9%BC%A0%E6%A0%87%E5%8F%98%E6%88%90%E5%8D%81%E5%AD%97%E5%BD%A2%E7%8A%B6%E6%97%A0%E6%B3%95%E7%82%B9%E5%87%BB.png)<br>    
-35、[PyTorch项目代码与资源列表](http://www.sohu.com/a/164171974_741733)
+35、[PyTorch项目代码与资源列表](http://www.sohu.com/a/164171974_741733)  
+36、深度学习研究人员：[何恺明](http://kaiminghe.com/)
