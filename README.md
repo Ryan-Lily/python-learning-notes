@@ -51,4 +51,5 @@ git fetch origin 会抓取从你上次克隆以来别人上传到此远程仓库
 ![image](https://github.com/Ryan-Lily/python-learning-notes/blob/master/images/ubuntu%E9%BC%A0%E6%A0%87%E5%8F%98%E6%88%90%E5%8D%81%E5%AD%97%E5%BD%A2%E7%8A%B6%E6%97%A0%E6%B3%95%E7%82%B9%E5%87%BB.png)<br>    
 35、[PyTorch项目代码与资源列表](http://www.sohu.com/a/164171974_741733)  
 36、深度学习研究人员：[何恺明](http://kaiminghe.com/)  
-37、# torch.float()将该tensor投射为float类型：float_tensor = tensor.float()
+37、# torch.float()将该tensor投射为float类型：float_tensor = tensor.float()  
+38、[colab中使用pytorch运行tensorboard的方法](https://medium.com/looka-engineering/how-to-use-tensorboard-with-pytorch-in-google-colab-1f76a938bc34)
