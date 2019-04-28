@@ -55,3 +55,4 @@ git fetch origin 会抓取从你上次克隆以来别人上传到此远程仓库
 38、[colab中使用pytorch运行tensorboard的方法](https://medium.com/looka-engineering/how-to-use-tensorboard-with-pytorch-in-google-colab-1f76a938bc34)  
 39、[TensorBoard in PyTorch](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/04-utils/tensorboard)  
 40、[tensorboardX](https://github.com/lanpa/tensorboardX)  
+41、[TensorBoardColab](https://github.com/taomanwai/tensorboardcolab)
