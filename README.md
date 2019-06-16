@@ -55,6 +55,7 @@ git fetch origin 会抓取从你上次克隆以来别人上传到此远程仓库
 38、[colab中使用pytorch运行tensorboard的方法](https://medium.com/looka-engineering/how-to-use-tensorboard-with-pytorch-in-google-colab-1f76a938bc34)  
 39、[TensorBoard in PyTorch](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/04-utils/tensorboard)  
 40、[tensorboardX](https://github.com/lanpa/tensorboardX)  
-41、[TensorBoardColab](https://github.com/taomanwai/tensorboardcolab)
+41、[TensorBoardColab](https://github.com/taomanwai/tensorboardcolab)  
 42、[变分自动编码器的详细推导过程](https://blog.csdn.net/ustbfym/article/details/78870990)  
 43、ubuntu系统中确定显卡信息：lspci |grep VGA
+44、[如何使用colab运行google云盘中的文件]:1、from google.colab import drive 2、drive.mount('/content/drive/')(https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d)
