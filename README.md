@@ -56,4 +56,5 @@ git fetch origin 会抓取从你上次克隆以来别人上传到此远程仓库
 39、[TensorBoard in PyTorch](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/04-utils/tensorboard)  
 40、[tensorboardX](https://github.com/lanpa/tensorboardX)  
 41、[TensorBoardColab](https://github.com/taomanwai/tensorboardcolab)
-42、[变分自动编码器的详细推导过程](https://blog.csdn.net/ustbfym/article/details/78870990)
+42、[变分自动编码器的详细推导过程](https://blog.csdn.net/ustbfym/article/details/78870990)  
+43、ubuntu系统中确定显卡信息：lspci |grep VGA
