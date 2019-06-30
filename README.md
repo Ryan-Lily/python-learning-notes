@@ -58,4 +58,5 @@ git fetch origin 会抓取从你上次克隆以来别人上传到此远程仓库
 41、[TensorBoardColab](https://github.com/taomanwai/tensorboardcolab)  
 42、[变分自动编码器的详细推导过程](https://blog.csdn.net/ustbfym/article/details/78870990)  
 43、ubuntu系统中确定显卡信息：lspci |grep VGA
-44、[如何使用colab运行google云盘中的文件:1、from google.colab import drive 2、drive.mount('/content/drive/')](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d)
+44、[如何使用colab运行google云盘中的文件:1、from google.colab import drive 2、drive.mount('/content/drive/')](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d)  
+45、[linux系统中的V2ray安装教程](https://www.v2ray.com/chapter_00/install.html)
