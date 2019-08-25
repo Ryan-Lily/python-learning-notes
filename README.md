@@ -63,4 +63,6 @@ git fetch origin 会抓取从你上次克隆以来别人上传到此远程仓库
 46、https://gitlab.com/Alvin9999/free/wikis/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B  
 47、[免费IT书籍网站](http://www.allitebooks.org/)  
 48、[ImportError: No module named conda.cli的解决方法：bash Anaconda3-2018.12-Linux-x86_64.sh -u](https://www.wandouip.com/t5i217365/)  
-49、[v2ray的安装和使用教程-已墙](https://www.v2ray.com/chapter_00/install.html)
+49、[v2ray的安装和使用教程-已墙](https://www.v2ray.com/chapter_00/install.html)  
+50、[本地浏览器设置v2ray代理的方式](https://unixetc.com/post/v2ray-client-configuration-example-in-ubuntu/)  
+![image](https://github.com/Ryan-Lily/python-learning-notes/blob/master/images/%E6%9C%AC%E5%9C%B0%E6%B5%8F%E8%A7%88%E5%99%A8v2ray%E8%AE%BE%E7%BD%AE.png)<br> 
