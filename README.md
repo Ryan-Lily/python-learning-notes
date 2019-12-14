@@ -70,6 +70,7 @@ git fetch origin 会抓取从你上次克隆以来别人上传到此远程仓库
 ![image](https://github.com/Ryan-Lily/python-learning-notes/blob/master/images/tensorboard%E7%9B%B8%E5%85%B3%E8%BD%AF%E4%BB%B6%E7%89%88%E6%9C%AC.png)  
 52、[UDACITY分享的免费课程《PyTorch深度学习实战》课程](https://cn.udacity.com/course/deep-learning-pytorch--ud188)    
 53、[pip安装软件过程中的权限问题几解决方案](https://blog.csdn.net/zhe_csdn/article/details/99430519)   
-54、[ Ubuntu 系统下 apt-get 彻底卸载软件包的方法 ](https://learnku.com/articles/16390)
+54、[ Ubuntu 系统下 apt-get 彻底卸载软件包的方法 ](https://learnku.com/articles/16390)  
+55、[ubuntu find 查找文件并删除](https://blog.csdn.net/jiao_zhoucy/article/details/8757564)
 
 
