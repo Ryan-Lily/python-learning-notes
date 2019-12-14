@@ -68,4 +68,7 @@ git fetch origin 会抓取从你上次克隆以来别人上传到此远程仓库
 ![image](https://github.com/Ryan-Lily/python-learning-notes/blob/master/images/%E6%9C%AC%E5%9C%B0%E6%B5%8F%E8%A7%88%E5%99%A8v2ray%E8%AE%BE%E7%BD%AE.png)<br>   
 51、pytorch中使用tensorboard需要的相关软件版本  
 ![image](https://github.com/Ryan-Lily/python-learning-notes/blob/master/images/tensorboard%E7%9B%B8%E5%85%B3%E8%BD%AF%E4%BB%B6%E7%89%88%E6%9C%AC.png)  
-52、[UDACITY分享的免费课程《PyTorch深度学习实战》课程](https://cn.udacity.com/course/deep-learning-pytorch--ud188)  
+52、[UDACITY分享的免费课程《PyTorch深度学习实战》课程](https://cn.udacity.com/course/deep-learning-pytorch--ud188)    
+53、[pip安装软件过程中的权限问题几解决方案](https://blog.csdn.net/zhe_csdn/article/details/99430519) 
+
+
