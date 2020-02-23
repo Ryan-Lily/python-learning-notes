@@ -73,4 +73,5 @@ git fetch origin 会抓取从你上次克隆以来别人上传到此远程仓库
 54、[ Ubuntu 系统下 apt-get 彻底卸载软件包的方法 ](https://learnku.com/articles/16390)  
 55、[ubuntu find 查找文件并删除](https://blog.csdn.net/jiao_zhoucy/article/details/8757564)  
 56、[解决PIP下载安装速度慢](https://www.cnblogs.com/shengwang/p/9979764.html)  
-57、[The system is running in low-graphics mode时解决方法](https://blog.csdn.net/qingfengxiaosong/article/details/83042724)
+57、[The system is running in low-graphics mode时解决方法](https://blog.csdn.net/qingfengxiaosong/article/details/83042724)  
+58、ubutun系统清空终端屏幕命令：reset
