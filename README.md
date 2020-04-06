@@ -74,4 +74,13 @@ git fetch origin 会抓取从你上次克隆以来别人上传到此远程仓库
 55、[ubuntu find 查找文件并删除](https://blog.csdn.net/jiao_zhoucy/article/details/8757564)  
 56、[解决PIP下载安装速度慢](https://www.cnblogs.com/shengwang/p/9979764.html)  
 57、[The system is running in low-graphics mode时解决方法](https://blog.csdn.net/qingfengxiaosong/article/details/83042724)  
-58、ubutun系统清空终端屏幕命令：reset
+58、ubutun系统清空终端屏幕命令：reset  
+59、[Linux搭建V2Ray客户端](https://www.wandouip.com/t5i197953/)    
+1.1 在线安装  
+sudo su  
+bash <(curl -L -s https://install.direct/go.sh)  
+1.2 离线安装  
+先到github上下载v2ray-linux-64.zip压缩包，并放在ubuntu的本地  
+wget https://install.direct/go.sh  
+sudo bash go.sh --local ./v2ray-linux-64.zip   
+其中go.sh是安装自动化脚本，使用该脚本执行下载下来的离线安装包，安装过程需要root权限.  
