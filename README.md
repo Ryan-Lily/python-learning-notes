@@ -84,3 +84,4 @@ bash <(curl -L -s https://install.direct/go.sh)
 wget https://install.direct/go.sh  
 sudo bash go.sh --local ./v2ray-linux-64.zip   
 其中go.sh是安装自动化脚本，使用该脚本执行下载下来的离线安装包，安装过程需要root权限.  
+60、学习编程的网站：[1. HackerRank](https://www.hackerrank.com/)、[2. TopCoder](https://www.topcoder.com/)、[3.Geekforgeeks](https://www.geeksforgeeks.org/)、[4. Lintcode](https://www.lintcode.com/)、[5. Codeforces](http://codeforces.com/)
