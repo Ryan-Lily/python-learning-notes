@@ -84,4 +84,10 @@ bash <(curl -L -s https://install.direct/go.sh)
 wget https://install.direct/go.sh  
 sudo bash go.sh --local ./v2ray-linux-64.zip   
 其中go.sh是安装自动化脚本，使用该脚本执行下载下来的离线安装包，安装过程需要root权限.  
-60、学习编程的网站：[1. HackerRank](https://www.hackerrank.com/)、[2. TopCoder](https://www.topcoder.com/)、[3.Geekforgeeks](https://www.geeksforgeeks.org/)、[4. Lintcode](https://www.lintcode.com/)、[5. Codeforces](http://codeforces.com/)
+60、学习编程的网站：[1. HackerRank](https://www.hackerrank.com/)、[2. TopCoder](https://www.topcoder.com/)、[3.Geekforgeeks](https://www.geeksforgeeks.org/)、[4. Lintcode](https://www.lintcode.com/)、[5. Codeforces](http://codeforces.com/)  
+61、linux系统退出python解释器的方法：Ctrl+D、exit()、quit()  
+62、python中的除法/返回浮点类型的数据：8 / 5 = 1.6，可以使用整除//获取整数：17 // 3 = 5。  
+63、python交互模式中，最近一个表达式的值赋给_，不要给_赋值，会屏蔽系统内置变量。  
+64、在字符串前面加r可以避免\被当做转义字符。 print(r'C:\some\name')  # C:\some\name
+65、没有return语句的函数会返回None  
+66、
