@@ -91,4 +91,6 @@ sudo bash go.sh --local ./v2ray-linux-64.zip
 64、在字符串前面加r可以避免\被当做转义字符。 print(r'C:\some\name')  # C:\some\name
 65、没有return语句的函数会返回None  
 66、八大智能包括：语言智能、数学逻辑智能、空间智能、身体运动智能、音乐智能、人际智能、自我认知智能、自然认知智能。  
-67、[github无法连接的处理方法](https://www.cnblogs.com/sunjinggege/p/14430828.html)
+67、[github无法连接的处理方法](https://www.cnblogs.com/sunjinggege/p/14430828.html)  
+68、ubuntu删除文件(夹)命令  
+![image](https://github.com/Ryan-Lily/python-learning-notes/blob/master/images/tensorboard%E7%9B%B8%E5%85%B3%E8%BD%AF%E4%BB%B6%E7%89%88%E6%9C%AC.png)  
