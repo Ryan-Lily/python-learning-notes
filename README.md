@@ -93,4 +93,4 @@ sudo bash go.sh --local ./v2ray-linux-64.zip
 66、八大智能包括：语言智能、数学逻辑智能、空间智能、身体运动智能、音乐智能、人际智能、自我认知智能、自然认知智能。  
 67、[github无法连接的处理方法](https://www.cnblogs.com/sunjinggege/p/14430828.html)  
 68、ubuntu删除文件(夹)命令  
-![image](https://github.com/Ryan-Lily/python-learning-notes/blob/master/images/tensorboard%E7%9B%B8%E5%85%B3%E8%BD%AF%E4%BB%B6%E7%89%88%E6%9C%AC.png)  
+![image](https://github.com/Ryan-Lily/python-learning-notes/blob/master/images/ubuntu%E5%88%A0%E9%99%A4%E6%96%87%E4%BB%B6(%E5%A4%B9)%E5%91%BD%E4%BB%A4.png)  
