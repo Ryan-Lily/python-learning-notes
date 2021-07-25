@@ -94,3 +94,5 @@ sudo bash go.sh --local ./v2ray-linux-64.zip
 67、[github无法连接的处理方法](https://www.cnblogs.com/sunjinggege/p/14430828.html)  
 68、ubuntu删除文件(夹)命令  
 ![image](https://github.com/Ryan-Lily/python-learning-notes/blob/master/images/ubuntu%E5%88%A0%E9%99%A4%E6%96%87%E4%BB%B6(%E5%A4%B9)%E5%91%BD%E4%BB%A4.png)  
+69、[ubuntu系统中以窗口的形式打开指定文件夹的命令：nautilus 文件/文件夹路径。](https://blog.csdn.net/chenwenxin/article/details/44174563)    
+70、[ubuntu系统中删除的文件还能locate到？：需要强制更新数据库，sudo updatedb](https://blog.csdn.net/weixin_38554662/article/details/80687947) 
