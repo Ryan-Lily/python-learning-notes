@@ -96,4 +96,9 @@ sudo bash go.sh --local ./v2ray-linux-64.zip
 ![image](https://github.com/Ryan-Lily/python-learning-notes/blob/master/images/ubuntu%E5%88%A0%E9%99%A4%E6%96%87%E4%BB%B6(%E5%A4%B9)%E5%91%BD%E4%BB%A4.png)  
 69、[ubuntu系统中以窗口的形式打开指定文件夹的命令：nautilus 文件/文件夹路径。](https://blog.csdn.net/chenwenxin/article/details/44174563)    
 70、[ubuntu系统中删除的文件还能locate到？：需要强制更新数据库，sudo updatedb](https://blog.csdn.net/weixin_38554662/article/details/80687947)   
-71、[Ubuntu系统中使用root账号登陆图形界面：](https://jingyan.baidu.com/article/bad08e1e224b2709c85121f1.html)
+71、[Ubuntu系统中使用root账号登陆图形界面：](https://jingyan.baidu.com/article/bad08e1e224b2709c85121f1.html)  
+72、[安装 aconda 后ubuntu系统终端界面前部出现（base）字样:在 ~/.bashrc文件最后面添加命令：conda deactivate](https://blog.csdn.net/weixin_42033981/article/details/87991200)  
+73、[anaconda创建虚拟环境：conda  create -n python3810  python=3.8.10](https://blog.csdn.net/ITLearnHall/article/details/81708148?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EOPENSEARCH%7Edefault-5.no_search_link&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EOPENSEARCH%7Edefault-5.no_search_link)  
+75、[Ubuntu中如何查找文件：find / -name "*name*"](https://jingyan.baidu.com/article/3065b3b6b28b7cbecff8a4e8.html)  
+76、[Ubuntu 更改环境变量 PATH](https://blog.csdn.net/qq_326324545/article/details/88956180)
+
