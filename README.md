@@ -101,4 +101,5 @@ sudo bash go.sh --local ./v2ray-linux-64.zip
 73、[anaconda创建虚拟环境：conda  create -n python3810  python=3.8.10](https://blog.csdn.net/ITLearnHall/article/details/81708148?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EOPENSEARCH%7Edefault-5.no_search_link&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EOPENSEARCH%7Edefault-5.no_search_link)  
 75、[Ubuntu中如何查找文件：find / -name "*name*"](https://jingyan.baidu.com/article/3065b3b6b28b7cbecff8a4e8.html)  
 76、[Ubuntu 更改环境变量 PATH](https://blog.csdn.net/qq_326324545/article/details/88956180)  
-77、[ubuntu16升级python后 终端打不开问题:打开/usr/bin/gnome-terminal 将首行的 #!/usr/bin/python3 修改为 #!/usr/bin/python3.5](https://blog.csdn.net/zhang_xiaoqiang/article/details/112685940)
+77、[ubuntu16升级python后 终端打不开问题:打开/usr/bin/gnome-terminal 将首行的 #!/usr/bin/python3 修改为 #!/usr/bin/python3.5](https://blog.csdn.net/zhang_xiaoqiang/article/details/112685940)  
+78、[sh: 1: /usr/lib/cnf-update-db: not found,python from your command line must point to python2.7](https://www.py4u.net/discuss/1130276)
