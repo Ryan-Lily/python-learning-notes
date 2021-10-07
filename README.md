@@ -102,4 +102,5 @@ sudo bash go.sh --local ./v2ray-linux-64.zip
 75、[Ubuntu中如何查找文件：find / -name "*name*"](https://jingyan.baidu.com/article/3065b3b6b28b7cbecff8a4e8.html)  
 76、[Ubuntu 更改环境变量 PATH](https://blog.csdn.net/qq_326324545/article/details/88956180)  
 77、[ubuntu16升级python后 终端打不开问题:打开/usr/bin/gnome-terminal 将首行的 #!/usr/bin/python3 修改为 #!/usr/bin/python3.5](https://blog.csdn.net/zhang_xiaoqiang/article/details/112685940)  
-78、[sh: 1: /usr/lib/cnf-update-db: not found,python from your command line must point to python2.7](https://www.py4u.net/discuss/1130276)
+78、[sh: 1: /usr/lib/cnf-update-db: not found,python from your command line must point to python2.7](https://www.py4u.net/discuss/1130276)  
+79、[ubuntu系统安装搜狗拼音输入法](https://pinyin.sogou.com/linux/help.php)  
