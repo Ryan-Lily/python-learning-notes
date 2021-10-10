@@ -104,3 +104,6 @@ sudo bash go.sh --local ./v2ray-linux-64.zip
 77、[ubuntu16升级python后 终端打不开问题:打开/usr/bin/gnome-terminal 将首行的 #!/usr/bin/python3 修改为 #!/usr/bin/python3.5](https://blog.csdn.net/zhang_xiaoqiang/article/details/112685940)  
 78、[sh: 1: /usr/lib/cnf-update-db: not found,python from your command line must point to python2.7](https://www.py4u.net/discuss/1130276)  
 79、[ubuntu系统安装搜狗拼音输入法](https://pinyin.sogou.com/linux/help.php)  
+80、[ Python中值的内存管理方式](https://www.sohu.com/a/222046366_797291)  
+81、[Python体题库](https://wenku.baidu.com/view/166b2162bf23482fb4daa58da0116c175f0e1ebd.html###)  
+82、[怎样构建自己的知识库](https://mp.weixin.qq.com/s?__biz=MzIzMzMzOTI3Nw==&mid=2247503863&idx=1&sn=19429688c6561f675d7ec88dbcf33a8a&chksm=e885af15dff2260394e8d882276cd6e74971213cec252f6f98447c009fd5aa9439c6589c2ed6&mpshare=1&scene=1&srcid=1007C3WYQE2gakfx58L1kSLW&sharer_sharetime=1633610404126&sharer_shareid=77d493a38a13fa7734aa57e6368142c2&exportkey=AbQ9wso2XybcDALdci2JFdA%3D&pass_ticket=dFNTBuMdoGHBiOT79bvEvAj77B%2FWyark45lOKct4PicYMmMTQouuOPsBweaJfKpe&wx_header=0#rd)
