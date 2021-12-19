@@ -109,4 +109,5 @@ sudo bash go.sh --local ./v2ray-linux-64.zip
 82、[怎样构建自己的知识库](https://mp.weixin.qq.com/s?__biz=MzIzMzMzOTI3Nw==&mid=2247503863&idx=1&sn=19429688c6561f675d7ec88dbcf33a8a&chksm=e885af15dff2260394e8d882276cd6e74971213cec252f6f98447c009fd5aa9439c6589c2ed6&mpshare=1&scene=1&srcid=1007C3WYQE2gakfx58L1kSLW&sharer_sharetime=1633610404126&sharer_shareid=77d493a38a13fa7734aa57e6368142c2&exportkey=AbQ9wso2XybcDALdci2JFdA%3D&pass_ticket=dFNTBuMdoGHBiOT79bvEvAj77B%2FWyark45lOKct4PicYMmMTQouuOPsBweaJfKpe&wx_header=0#rd)  
 83、[“su: 认证失败”的解决方案：sudo passwd](https://blog.51cto.com/studiogang/385223)  
 84、[Jupyter Notebook设置密码](https://blog.csdn.net/smile_Shujie/article/details/88357371)  
-85、[GAN公式推导中密度函数变换方法](https://blog.csdn.net/bingfeiqiji/article/details/81908948)
+85、[GAN公式推导中密度函数变换方法](https://blog.csdn.net/bingfeiqiji/article/details/81908948)  
+86、[pip安装库比较慢：使用豆瓣源pip install tensorflow -i https://pypi.douban.com/simple](https://blog.csdn.net/weixin_38109583/article/details/93376954)
