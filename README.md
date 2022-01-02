@@ -110,4 +110,5 @@ sudo bash go.sh --local ./v2ray-linux-64.zip
 83、[“su: 认证失败”的解决方案：sudo passwd](https://blog.51cto.com/studiogang/385223)  
 84、[Jupyter Notebook设置密码](https://blog.csdn.net/smile_Shujie/article/details/88357371)  
 85、[GAN公式推导中密度函数变换方法](https://blog.csdn.net/bingfeiqiji/article/details/81908948)  
-86、[pip安装库比较慢：使用豆瓣源pip install tensorflow -i https://pypi.douban.com/simple](https://blog.csdn.net/weixin_38109583/article/details/93376954)
+86、[pip安装库比较慢：使用豆瓣源pip install tensorflow -i https://pypi.douban.com/simple](https://blog.csdn.net/weixin_38109583/article/details/93376954)  
+87、[python访问生成器元素的方式：1.for循环遍历2.next(generator)函数3.使用generator.__next__方法访问 4.使用generator.send(None)方法](https://blog.csdn.net/weixin_45222544/article/details/94123503)
