@@ -111,4 +111,6 @@ sudo bash go.sh --local ./v2ray-linux-64.zip
 84、[Jupyter Notebook设置密码](https://blog.csdn.net/smile_Shujie/article/details/88357371)  
 85、[GAN公式推导中密度函数变换方法](https://blog.csdn.net/bingfeiqiji/article/details/81908948)  
 86、[pip安装库比较慢：使用豆瓣源pip install tensorflow -i https://pypi.douban.com/simple](https://blog.csdn.net/weixin_38109583/article/details/93376954)  
-87、[python访问生成器元素的方式：1.for循环遍历2.next(generator)函数3.使用generator.__next__方法访问 4.使用generator.send(None)方法](https://blog.csdn.net/weixin_45222544/article/details/94123503)
+87、[python访问生成器元素的方式：1.for循环遍历2.next(generator)函数3.使用generator.__next__方法访问 4.使用generator.send(None)方法](https://blog.csdn.net/weixin_45222544/article/details/94123503)  
+88、[python编码错误解决：UnicodeDecodeError: 'utf-8' codec can't decode byte 0x92 in position 884: invalid start --- 回车，输入:set fileencoding=utf-8 修改编码方式](https://blog.csdn.net/wiki347552913/article/details/88060582)  
+89、[]()
